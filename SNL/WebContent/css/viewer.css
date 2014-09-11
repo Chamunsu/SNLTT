@@ -1,0 +1,198 @@
+@CHARSET "EUC-KR";
+
+#back {
+	width: 100%;
+	height: 800px;
+	margin: 0 auto;
+	background: rgba(0, 0, 0, 0.3);
+	left:0px;
+	top:50px;
+	position:fixed;
+}
+
+#viewer {
+	width: 80%;
+	height: 500px;
+	margin: 0 auto;
+	background-color: #FFFFF0;
+}
+
+#displayview {
+	width:70%;
+	height:100%;
+	background-color: #FFFF00;
+	margin: 0 auto;
+	float: left;
+	border-right:1px solid;
+}
+
+#viewercomment {
+	clear:both;
+	width: 30%;
+	background-color: #FAFAFA;
+	margin: 0 auto;
+	height: 100%;
+}
+
+#tools {
+	width: 100%;
+	height:20%;
+	height: 50px;
+	margin: 0 auto;
+	background-color: #FAFAFA
+}
+
+#view {
+	margin: 0 auto;
+	background-color: #FAFAFA;
+	height:80%;
+}
+
+#controller {
+	width: 100%;
+	height:10%;
+	margin: 0 auto;
+	background-color: #FAFAFA;
+}
+
+#text{
+	width: 20%;
+	height: 50px;
+	margin: 0 auto;
+	float: left;
+}
+
+
+
+#line{
+	width: 20%;
+	height: 50px;
+	margin: 0 auto;
+	float: left;
+	
+}
+
+
+
+#color{
+	width: 60%;
+	height: 100%;
+	margin: 0 auto;
+	float: left;
+	
+}
+
+
+#nav {
+	width: 80%;
+	height: 100%;
+	margin: 0 auto;
+	float: left;
+}
+
+#pagenum {
+	width: 20%;
+	height: 100%;
+	margin: 0 auto;
+	float: right;
+}
+
+#first {
+	width: 20%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #FAFAFA;
+	float : left;
+}
+
+#previous {
+	width: 20%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #AAAAAA;
+	float : left;
+}
+
+#next {
+	width: 20%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: ##FAFAFA;
+	float : left;
+}
+
+#last {
+	width: 20%;
+	height: 100%;
+	margin: 0 auto;
+	background-color: #AAAAAA;
+	float : left;
+}
+
+#currentnum{
+	width: 30%;
+	background-color: #FFC0C0;
+	font-size : 20px;
+	text-align : right;
+	float : left;
+	
+}
+
+#totalnum{
+	margin-left : 5px;
+	font-size : 30px;
+	
+}
+
+#viewer_close{
+	background-image:url(../images/close.png);
+	background-repeat:no-repeat;
+	background-size:contain;
+	position:relative;
+	top:0px;
+	right:0px;
+	width:30px;
+	height:30px;
+}
+#overlay{
+	height:100%;
+	 width:100%;
+	 background-size:contain;
+	 background-repeat:no-repeat;
+	 background-position: center;
+}
+
+#red{
+	width: 25%;
+	height: 50px;
+	margin: 0 auto;
+	float : left;
+	
+}
+
+#yellow{
+	width: 25%;
+	height: 50px;
+	margin: 0 auto;
+	float : left;
+	
+}
+
+#blue{
+	width: 25%;
+	height: 50px;
+	margin: 0 auto;
+	float : left;
+	
+}
+
+#green{
+	width: 25%;
+	height: 50px;
+	margin: 0 auto;
+	float : left;
+	
+}
+
+
+
